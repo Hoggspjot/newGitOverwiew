@@ -36,5 +36,5 @@ build/
 
 .DS_Store
 .idea/
-/src/test/
+test/
 /target/
