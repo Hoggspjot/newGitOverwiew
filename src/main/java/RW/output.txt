@@ -1,4 +1,4 @@
 Hello World!
-Привет, мир!
-? Unicode Emoji!
+РџСЂРёРІРµС‚, РјРёСЂ!
+рџЉ Unicode Emoji!
 12345
