@@ -10,8 +10,7 @@ public class IOClassTest2 {
 
             int count;
             byte[] buffer = new byte[1024];
-            while (inputStream.available() > 0) {
-                count = inputStream.read(buffer);
+            while ((count = inputStream.read(buffer)) != -1) {
                 outputStream.write(buffer, 0 ,count);
             }
         }
