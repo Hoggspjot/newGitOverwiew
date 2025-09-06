@@ -1,0 +1,4 @@
+Hello World!
+Привет, мир!
+? Unicode Emoji!
+12345

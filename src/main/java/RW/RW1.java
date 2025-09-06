@@ -9,8 +9,8 @@ public class RW1 {
                 new FileInputStream("src/main/java/RW/input.txt"), StandardCharsets.UTF_8)) {
             int buffer;
             while ((buffer = reader.read()) != -1) {
-                char code = (char) buffer;
-                System.out.print(code);
+                char simbol = (char)buffer;
+                System.out.print(simbol);
             }
 
 
