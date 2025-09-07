@@ -22,5 +22,6 @@ public class RW3 {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+
     }
 }
